@@ -7,7 +7,7 @@
 
 - Can't remember where you had your favorite slice of pizza? IEatFood eliminates the need to rememember, and even lets you rank the items based on your enjoyment.
 
-- So you always remember where to and where not to go and why
+- So you always remember where to and where not to go, and why.
 
 
 
